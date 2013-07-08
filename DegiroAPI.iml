@@ -10,6 +10,7 @@
     <orderEntry type="library" name="jackson-annotations-2.2.0" level="application" />
     <orderEntry type="library" name="httpclient-4.1-beta1" level="application" />
     <orderEntry type="library" name="org.apache.commons.logging" level="application" />
+    <orderEntry type="library" name="libs" level="project" />
   </component>
 </module>
 
