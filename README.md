@@ -8,9 +8,9 @@ available features (in Java):
 - sending new orders for a given productId
 
 planned (in Java):
--order management to keep track of open orders
--canceling open orders
--modifying open orders
+- order management to keep track of open orders
+- canceling open orders
+- modifying open orders
 
 
 Looking for developer to translate to C# or other languages
